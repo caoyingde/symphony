@@ -527,7 +527,7 @@ public final class Common {
     /**
      * Key of site visit statistic code.
      */
-    public static final String SITE_VISIT_STAT_CODE = "siteVisitStatCode";
+	public static final String SITE_VISIT_STAT_CODE = "siteVisitStatCode";
 
     /**
      * Key of online visitor count.
